@@ -93,21 +93,20 @@ public class PictureTester
 
     //testZeroBlue();
     //testKeepOnlyBlue();
-    //testKeepOnlyBlue();
-    //testKeepOnlyRed();
-    //testKeepOnlyGreen();
     //testNegate();
     //testGrayscale();
-    testFixUnderwater();
+    //testFixUnderwater();
     //testMirrorVertical();
     //testMirrorTemple();
     //testMirrorArms();
     //testMirrorGull();
-    //testMirrorDiagonal();
-    //testCollage();
+    ////testMirrorDiagonal();
+    ////testCollage();
     //testCopy();
-    //testEdgeDetection();
+    testEdgeDetection();
     //testEdgeDetection2();
+
+    
     //testChromakey();
     //testEncodeAndDecode();
     //testGetCountRedOverValue(250);
